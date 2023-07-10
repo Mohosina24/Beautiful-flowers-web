@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+/* header section style */
+.title{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.description{
+    margin-bottom: 20px;
+}
+.primary-btn{
+    border-radius: 5px;
+    background-color:#E55473 ;
+    border:0;
+    color: white;
+    font-size:15px;
+    font-weight:700;
+    padding: 10px 20px;
+}
+.header{
+    background-color: #fbe6eb;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom:30px;
+    justify-content: space-between;
+}
+.banner-pic{
+    width: 400px;
+}
