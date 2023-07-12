@@ -37,7 +37,11 @@
     width: 400px;
 }
 
-
+/* .layout{
+    border:5px solid blue;
+    background-color: red;
+    margin: 200px 300px 200px 300px;
+} */
 
 .text1{
     text-align: center;
@@ -51,6 +55,7 @@
     display: flex;
     margin-left: 400px;
     margin-top: 10px;
+   
 }
 .box-1{
     width: 150px;
@@ -100,4 +105,38 @@
     text-align: center;
     text-decoration: underline;
     margin-top: 20px;
+}
+/* icon section style */
+.icon-list{
+display: flex;
+margin-left: 240px;
+margin-right: 240px;
+margin-top: 130px;
+border-radius: 8px;
+background-color:  rgba(236, 76, 145, 0.8);
+padding: 25px 30px 25px 10px;
+}
+.icons{
+    margin-left:50px ;
+   
+}
+.icons > img{
+    width: 40px;
+   
+  
+}
+.little-description{
+   
+text-align: center;
+
+}
+.pic1{
+    margin-left: 100px;
+}
+.pic2{
+    margin-left: 100px;
+}
+.pic3{
+    margin-left: 50px;
+   
 }
