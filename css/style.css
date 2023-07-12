@@ -10,6 +10,7 @@
 }
 .description{
     margin-bottom: 20px;
+   
 }
 .primary-btn{
     border-radius: 5px;
@@ -19,6 +20,7 @@
     font-size:15px;
     font-weight:700;
     padding: 10px 20px;
+    
 }
 .header{
     background-color: #fbe6eb;
@@ -33,4 +35,69 @@
 }
 .banner-pic{
     width: 400px;
+}
+
+
+
+.text1{
+    text-align: center;
+    margin-top: 130px;
+}
+.layout-title{
+    margin-bottom: 10px;
+}
+/* box design  */
+.picture{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.box-1{
+    width: 150px;
+    height: 200px;
+    background-color:#e9a0c3 ;
+    border-radius: 250px 250px 0px 0px;
+   margin-right: 20px;
+
+    
+}
+.box-2{
+    width: 150px;
+    height: 200px;
+    background-color:rgb(192, 195, 197) ;
+    border-radius: 250px 250px 0px 0px;
+    margin-right: 20px;
+
+
+}
+.box-3{
+    width: 150px;
+    height: 200px;
+    background-color:rgb(166, 229, 171) ;
+    border-radius: 250px 250px 0px 0px;
+    margin-right: 20px;
+
+
+ }
+.tulip{
+    width: 150px;
+       height:180px;
+      margin-top: 20px;
+     
+}
+.flower{
+    width: 150px;
+    height:170px;
+   margin-top: 30px;
+  
+}
+.flower2{
+    width: 150px;
+       height:190px;
+      margin-top: 10px;
+}
+.pink{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20px;
 }
